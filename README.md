@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection
 
 ## Model Preview
-![Fraud_Detection_Model](Screenshots/pp9.png)
+![Fraud_Detection_Model](Screenshorts/pp9.png)
 
 ## Overview
 
