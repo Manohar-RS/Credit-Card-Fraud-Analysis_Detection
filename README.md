@@ -1,5 +1,8 @@
 # Credit Card Fraud Detection
 
+## Model Preview
+![Fraud_Detection_Model](Screenshots/pp9.png)
+
 ## Overview
 
 This project detects fraudulent credit card transactions using Machine Learning.
